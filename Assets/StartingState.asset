@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "You have been working at a Japanese Hibachi restaurant as a kitchen
+    helper for almost 4 months. A couple of the chefs walked out in a fit of rage
+    for unknown reasons to you. Believed to be the next best thing, the manager decided
+    that you would be the one to take over. Faced with the responsibility of cooking
+    and entertaining the customers, you are faced with a dilemma. This is the first
+    time you have been in this environment but you have observed the chefs before.
+    \n\nYou are at your first table. What do you do first?\n1. Greet your customers.\n2.
+    Look at the orders."
