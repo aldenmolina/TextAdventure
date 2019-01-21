@@ -20,3 +20,6 @@ MonoBehaviour:
     time you have been in this environment but you have observed the chefs before.
     \n\nYou are at your first table. What do you do first?\n1. Greet your customers.\n2.
     Look at the orders."
+  nextStates:
+  - {fileID: 11400000, guid: 5f5ef20b7ada2f146a6f9322adc5d55c, type: 2}
+  - {fileID: 11400000, guid: 52f6cf237436d8646baac801584225ff, type: 2}
