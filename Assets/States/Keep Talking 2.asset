@@ -10,9 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
-  m_Name: Look At Orders
+  m_Name: Keep Talking 2
   m_EditorClassIdentifier: 
-  storyText: 'you looked at the orders
-
-'
+  storyText: 
   nextStates: []

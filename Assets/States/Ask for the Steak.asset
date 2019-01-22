@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Ask for the Steak
+  m_EditorClassIdentifier: 
+  storyText: "Cooking steak is a delicate process. Customers have different preference
+    on how they want it done. Asking for how is a great way to start the cooking.
+    You realize you don't have a pen.\r\n\r\n1. Just memorize it. \r\n2. Just ask
+    again later."
+  nextStates:
+  - {fileID: 11400000, guid: 0aa4a93f6338621418391622d541dfd2, type: 2}
+  - {fileID: 11400000, guid: be11ef5312196b749ac2fb1b4ba3f85f, type: 2}

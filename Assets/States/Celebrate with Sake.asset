@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Celebrate with Sake
+  m_EditorClassIdentifier: 
+  storyText: "What better way to celebrate than with Japanese wine? Your customers
+    takes your offer enthusiastically Do you give it to the couple on a date or the
+    middle-aged lady with her friends?\r\n\r\n1. Give it to the couple.\r\n2. Give
+    the sake to the lady and her friends., "
+  nextStates:
+  - {fileID: 11400000, guid: c3ee0cf20746238419ff34e666bde614, type: 2}
+  - {fileID: 11400000, guid: e0402d97b04580a43a787fb476e7b40e, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Make Fire
+  m_EditorClassIdentifier: 
+  storyText: "Oil and alcohol. The 2 key ingredients in making the symbolic fire in
+    all Hibachi shows. You glazed the grill with the oil and grabbed the alcohol to
+    light it up. As the fire started, you realized you added too much oil and the
+    fire was way too big. You hear the customers scream. You panicked but realized
+    all the customers were laughing and having a good time. They enjoyed the big fire
+    you created. A job well done. What is your next move?\r\n\r\n1. Start cooking.\r\n2.
+    Offer if anybody wants some sake."
+  nextStates:
+  - {fileID: 11400000, guid: 34ddc0df54cb6e4448d6a569f7489558, type: 2}
+  - {fileID: 11400000, guid: 03895971df797bc4a8fb5397ffdb269a, type: 2}

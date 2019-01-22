@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Yell for Help
+  m_EditorClassIdentifier: 
+  storyText: "In the heat of the moment, you decided to call for assistance. \"Help!\",
+    you yelled knowing nobody is around. \"Server!\", you called hoping that one of
+    the servers could be close. You noticed the customers getting antsy. You have
+    to do something.\r\n\r\n1. Start cooking.\r\n2. Go and find the server."
+  nextStates:
+  - {fileID: 11400000, guid: 34ddc0df54cb6e4448d6a569f7489558, type: 2}
+  - {fileID: 11400000, guid: dd600134564638247a4aeaa8815e3384, type: 2}

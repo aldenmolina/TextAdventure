@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Behind the Back
+  m_EditorClassIdentifier: 
+  storyText: "A regu;lar flip doesn't dazzle them anymore. This time you do another
+    flip, but you catch it from behind. You tossed it and reached your hand around
+    to grab. There was too much strength in the toss and the flip. You knocked over
+    a customer's drink. It was everywhere. What do you do?\r\n\r\n1. Apologize and
+    clean it yourself.\r\n2. Yell for help."
+  nextStates:
+  - {fileID: 11400000, guid: 23e8799d3c83de046b1d52f9c4c744d2, type: 2}
+  - {fileID: 11400000, guid: 85a652380cdd47b4f80f13b3dba728dd, type: 2}

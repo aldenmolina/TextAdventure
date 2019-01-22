@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Give Sake
+  m_EditorClassIdentifier: 
+  storyText: "On your cart, a full bottle of sake for you to use.\"Do you guys want
+    some sake?\", you asked the table. The couple in the corner excitedly accepted
+    your offer.  The lady opened her mouth. She's done this before. You went around
+    the table giving everyone a chance, until nobody else wants any. Sake seemed to
+    have gotten things in a lighter mood.\r\n\r\nWhats next?\r\n1. Look at orders.\r\n2.
+    Cook the food. "
+  nextStates:
+  - {fileID: 11400000, guid: 52f6cf237436d8646baac801584225ff, type: 2}
+  - {fileID: 11400000, guid: 34ddc0df54cb6e4448d6a569f7489558, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Skip Volcano
+  m_EditorClassIdentifier: 
+  storyText: 'You skipped the volcano and focused on the cooking. You had to make
+    sure the food is at least good enough to serve. But you didn''t have your orders
+    right and gave them the wrong food. The order ticket is an important piece that
+    can''t be forgotten.
+
+
+    Press "Q" to exit.'
+  nextStates: []

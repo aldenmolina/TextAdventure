@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Spatula Show
+  m_EditorClassIdentifier: 
+  storyText: "You've seen the chefs deliver a stunning show numerous times to know
+    tricks. You grabbed the the spatula and went for a flip. Perfect! You decided
+    to do it a few more times and somehow this trick came easy to you. But, the customers
+    are veterans and asked you to do something cool.\r\n\r\n1. Do a behind the back
+    spatula toss.\r\n2. Make a big fire. "
+  nextStates:
+  - {fileID: 11400000, guid: 7641014c16f8b51418f91456caab196b, type: 2}
+  - {fileID: 11400000, guid: 58e3c9ae2a0f2624784d115bc9baaf4c, type: 2}

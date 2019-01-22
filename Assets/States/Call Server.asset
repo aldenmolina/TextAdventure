@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Call Server
+  m_EditorClassIdentifier: 
+  storyText: "You need to confirm the orders or you wouldn't know if you are cooking
+    the right food. There is nobody else around in the dining room except for yourself.
+    \r\n\r\nYou could go in the back and look for the server, or yell for someone
+    to come and help.\r\n\r\n1. Go and find server\r\n2.Yell for help"
+  nextStates:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 85a652380cdd47b4f80f13b3dba728dd, type: 2}

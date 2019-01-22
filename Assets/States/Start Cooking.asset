@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Start Cooking
+  m_EditorClassIdentifier: 
+  storyText: "You have no professional experience, but at least you are pretty confident
+    with your cooking at home. You started cooking the fried rice. Its awkward but
+    its not much of a difference. You're not sure who ordered the fried rice, nor
+    do you have any bowls to put it in. So you decide to push it to the side for now
+    in low heat. Now it comes the vegetables. Your first time making the onion volcano.\r\n\r\n1.
+    Make the volcano\r\n2. Skip it and hope they don't notice."
+  nextStates:
+  - {fileID: 11400000, guid: aea9e63e9f6102e4bb7788d36a596ba6, type: 2}
+  - {fileID: 11400000, guid: a9fa378872d0edd4cbd42db6d35ff963, type: 2}

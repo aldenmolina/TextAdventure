@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Go Find Server
+  m_EditorClassIdentifier: 
+  storyText: "In order to start the cooking, you have to make sure you have the right
+    food. You excused yourself from your table and went back to the kitchen to look
+    for the server. Still nowhere in sight. You have a choice to see if the server
+    it outside in the back or talk to the manager.\r\n\r\n1. Go outside.\r\n2. Talk
+    to manager."
+  nextStates:
+  - {fileID: 11400000, guid: 8f3a66849c84fb64685543cdcd677704, type: 2}
+  - {fileID: 11400000, guid: 1a56e383cd64cfb40976d4d5da3198ed, type: 2}

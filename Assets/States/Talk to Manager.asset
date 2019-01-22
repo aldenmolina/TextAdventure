@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
+  m_Name: Talk to Manager
+  m_EditorClassIdentifier: 
+  storyText: "You need help in getting the things started. You see him busy with all
+    the takeout orders. He was unable to help you at all. You go outside and find
+    the servers smoking and you finally got what you need. Back at the table.\r\n\r\n1.
+    See how they want their steak.\r\n2. Start pouring them the restaurant's famous
+    sauces"
+  nextStates:
+  - {fileID: 11400000, guid: f62b84f53bf2b304c92fada0b071808c, type: 2}
+  - {fileID: 11400000, guid: 64aba5a5a95b72143bcf049485991574, type: 2}
