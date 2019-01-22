@@ -18,4 +18,5 @@ MonoBehaviour:
 
 
     Press "Q" to continue.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 124632ca3f42ec4468d45e235ff58043, type: 2}

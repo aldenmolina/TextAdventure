@@ -12,9 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
   m_Name: Confirm Orders
   m_EditorClassIdentifier: 
-  storyText: You have to make sure you got the right food to cook, but your order
+  storyText: 'You have to make sure you got the right food to cook, but your order
     ticket is nowhere in sight. You tried to look for the server but nobody is around.
     You are by yourself. The customers are tired of waiting and decide to leave. Cooking
     for your first table is nerve wracking but maybe next time try and focus on the
     food to serve the hungry customers.
-  nextStates: []
+
+
+    Press "Q" to exit.'
+  nextStates:
+  - {fileID: 11400000, guid: 124632ca3f42ec4468d45e235ff58043, type: 2}

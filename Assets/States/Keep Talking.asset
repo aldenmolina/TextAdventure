@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
   m_Name: Keep Talking
   m_EditorClassIdentifier: 
-  storyText: "\"Happy Birthday!\", you exclaimed. \"Are you going to sing for me?\",
-    the birthday girl asked. She had a look in her h eyes that says she really wanted
-    someone to sing for her. \r\n\r\n1. Sing Happy Birthday.\r\n2. Tell her the the
-    server will sing for her."
+  storyText: "\"How are you guys doing? Anybody got any plans for today?\", you asked
+    hoping to get a better response. A couple in the corner said that they are celebrating
+    a birthday today and wanted to start the day to eating out. What is your next
+    move?\r\n\r\n1. Keep talking to them\r\n2. Give them some sake.."
   nextStates:
-  - {fileID: 11400000, guid: 987eeacca2167444fa50a1c044904f6b, type: 2}
-  - {fileID: 11400000, guid: 0857b332a6d010a47b6a6adf087c0837, type: 2}
+  - {fileID: 11400000, guid: a25687792f4021f46b6af5b4c7515d1d, type: 2}
+  - {fileID: 11400000, guid: 03895971df797bc4a8fb5397ffdb269a, type: 2}

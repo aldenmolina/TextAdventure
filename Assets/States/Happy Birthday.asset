@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
   m_Name: Happy Birthday
   m_EditorClassIdentifier: 
-  storyText: "\"How are you guys doing? Anybody got any plans for today?\", you asked
-    hoping to get a better response. A couple in the corner said that they are celebrating
-    a birthday today and wanted to start the day to eating out. What is your next
-    move?\r\n\r\n1. Keep talking to them\r.\n2. Give them some sake."
+  storyText: "You sang happy birthday. The customers were still pretty quiet. They
+    have no energy and getting hungrier by the minute. You have no other choice but
+    to start cooking.\r\n\r\n1. Confirm the orders.\r\n2. Cook the food before they
+    get too hungry."
   nextStates:
-  - {fileID: 11400000, guid: a25687792f4021f46b6af5b4c7515d1d, type: 2}
-  - {fileID: 11400000, guid: 03895971df797bc4a8fb5397ffdb269a, type: 2}
+  - {fileID: 11400000, guid: 6e58a3f6cc2978b4990428c8418df592, type: 2}
+  - {fileID: 11400000, guid: 34ddc0df54cb6e4448d6a569f7489558, type: 2}

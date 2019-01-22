@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
   m_Name: Keep Talking 2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "\"Happy Birthday!\", you exclaimed. \"Are you going to sing for me?\",
+    the birthday girl asked. She had a look in her h eyes that says she really wanted
+    someone to sing for her. \r\n\r\n1. Sing Happy Birthday.\r\n2. Tell her the the
+    server will sing for her."
+  nextStates:
+  - {fileID: 11400000, guid: 987eeacca2167444fa50a1c044904f6b, type: 2}
+  - {fileID: 11400000, guid: 0857b332a6d010a47b6a6adf087c0837, type: 2}

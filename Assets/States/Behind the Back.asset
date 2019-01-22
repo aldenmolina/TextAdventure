@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8c21cefead5964d9f0136e997207cf, type: 3}
   m_Name: Behind the Back
   m_EditorClassIdentifier: 
-  storyText: "A regu;lar flip doesn't dazzle them anymore. This time you do another
+  storyText: "A regular flip doesn't dazzle them anymore. This time you do another
     flip, but you catch it from behind. You tossed it and reached your hand around
     to grab. There was too much strength in the toss and the flip. You knocked over
     a customer's drink. It was everywhere. What do you do?\r\n\r\n1. Apologize and
